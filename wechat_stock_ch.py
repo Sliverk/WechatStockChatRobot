@@ -3,10 +3,9 @@ bot = Bot()
 
 # my_friend = bot.friends().search('beatifiC.H')[0]
 # my_friend = bot.friends().search('河流呀')[0]
-my_friend = bot.friends().search('Melody')[0]
 # my_friend = bot.friends().search('去散步了')[0]
 # my_friend = bot.friends().search('雪落涟漪')[0]
-# my_friend = bot.friends().search('闭嘴')[0]
+my_friend = bot.friends().search('闭嘴')[0]
 
 
 print ('Found!!!!')
