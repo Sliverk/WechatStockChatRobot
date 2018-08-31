@@ -1,5 +1,5 @@
 # WechatStockChatRobot
-It is a chat robot in wechat to collect stock informition for you.
+It is a chat robot in wechat to collect stock information for you.
 
 Version:
 Python 3.6
